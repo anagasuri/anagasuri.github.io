@@ -215,12 +215,6 @@ Supported clinical and translational research studies focused on reproductive ge
 - AWS
 
 
-## Resume
-
-📄 Resume available upon request.
-
-
-
 ## Links
 
 **GitHub:**  
