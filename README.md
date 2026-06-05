@@ -1,5 +1,5 @@
 # Healthcare Researcher 
-
+ 
 🧬 M.S. Health Data Science Candidate @ UCSF  
 🎓 B.S. Bioinformatics @ UC Santa Cruz
 
