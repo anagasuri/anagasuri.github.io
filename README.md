@@ -1,4 +1,4 @@
-# Amrita Nagasuri
+# Healthcare Researcher s
 
 🧬 M.S. Health Data Science Candidate @ UCSF  
 🎓 B.S. Bioinformatics @ UC Santa Cruz
