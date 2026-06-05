@@ -112,6 +112,25 @@ https://github.com/anagasuri/metabolomics-re-analysis
 
 ### University of California, San Francisco
 
+**Graduate Student Research Analyst**  
+*Bakar Computational Health Sciences Institute | Sirota Lab*  
+*Jul 2024 – Present*
+
+Conduct computational analyses supporting translational research projects spanning reproductive health, epigenomics, metabolomics, and biomedical informatics.
+
+#### Highlights
+
+- Built and implemented machine learning and statistical analysis pipelines for high-dimensional epigenomic and metabolomic datasets across multiple concurrent translational research studies.
+- Developed workflows for preprocessing, quality control, feature selection, predictive modeling, and biological interpretation of large-scale omics datasets.
+- Applied methods including logistic regression, dimensionality reduction, batch effect correction, pathway enrichment analysis, and biomarker discovery.
+- Queried, integrated, and curated clinical and genomic data from REDCap databases and electronic health records using SQL and reproducible data analysis workflows.
+- Executed large-scale analyses on AWS EC2 and UCSF Wynton High Performance Computing clusters to support computationally intensive research projects.
+- Generated publication-quality visualizations, statistical summaries, and analytical reports for manuscripts, conference presentations, and research meetings.
+- Collaborated with clinicians, geneticists, bioinformaticians, and data scientists to translate computational findings into biologically meaningful insights.
+- Contributed to multiple peer-reviewed publications and manuscripts involving recurrent pregnancy loss, developmental lethality, environmental health, metabolomics, and endometrial epigenomics.
+
+### University of California, San Francisco
+
 **Clinical Research Coordinator**  
 *Center for Reproductive Health | Jan 2023 – Jan 2025*
 
